@@ -1,12 +1,3 @@
----
-name: Pull Request
-about: Create a PR to contribute to our project
-title: ''
-labels: ''
-assignees: ''
-
----
-
 **What will this PR do?**
  
 
