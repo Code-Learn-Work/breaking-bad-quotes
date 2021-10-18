@@ -5,9 +5,12 @@
     "android": "expo start --android",
     "ios": "expo start --ios",
     "web": "expo start --web",
-    "eject": "expo eject"
+    "eject": "expo eject",
+    "contributors": "contributor-faces"
   },
+  "repository": "Code-Learn-Work/breaking-bad-quotes",
   "dependencies": {
+    "contributor-faces": "^1.1.0",
     "expo": "~42.0.1",
     "expo-status-bar": "~1.0.4",
     "react": "16.13.1",
